@@ -5,7 +5,7 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Chat</title>
+    <title>Simple PHP based Chat Application</title>
     
     <link rel="stylesheet" href="style.css" type="text/css" />
     
@@ -84,7 +84,7 @@
 
     <div id="page-wrap">
     
-        <h2>jQuery/PHP Chat</h2>
+        <h2>Simple PHP+Jquery based Chat App</h2>
         
         <p id="name-area"></p>
         
